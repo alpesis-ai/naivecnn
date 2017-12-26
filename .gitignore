@@ -1,0 +1,11 @@
+# build
+_build
+
+# editor
+*.swo
+*.swp
+*.swm
+*.swn
+
+# python
+*.pyc
